@@ -1,0 +1,25 @@
+{
+  "publications": [
+    {
+      "title": "PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis",
+      "authors": "Z Yin, YH Tsui, P Hui",
+      "category": "conference paper",
+      "url": "https://openreview.net/forum?id=QJSrgYcf4b",
+      "year": 2025
+    },
+    {
+      "title": "EyeNexus: Adaptive Gaze-Driven Quality and Bitrate Streaming for Seamless VR Cloud Gaming Experiences",
+      "authors": "Z Wu, A Alhilal, YH Tsui, M Siekkinen, P Hui",
+      "category": "journal paper",
+      "url": "https://dl.acm.org/doi/10.1145/3768989",
+      "year": 2025
+    },
+    {
+      "title": "FovOptix: Human Vision-Compatible Video Encoding and Adaptive Streaming in VR Cloud Gaming",
+      "authors": "A Alhilal, Z Wu, YH Tsui, P Hui",
+      "category": "conference paper",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3625468.3647612",
+      "year": 2024
+    }
+  ]
+}

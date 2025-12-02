@@ -981,6 +981,10 @@ main {
   animation: scaleUp 0.25s ease forwards;
 }
 
+.project-item:not(.active) {
+  display: none;
+}
+
 @keyframes scaleUp {
   0% { transform: scale(0.5); }
   100% { transform: scale(1); }

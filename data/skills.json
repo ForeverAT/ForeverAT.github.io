@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "title": "EyeNexus: Adaptive Gaze-Driven Quality and Bitrate Streaming for Seamless VR Cloud Gaming Experiences",
+      "description": "Implement foveated rendering and encoding with adaptive bitrate for VR Cloud Gaming. Accepted by CoNext 2025.",
+      "url": "https://github.com/WuZemyp/EyeNexus-CoNEXT-25-"
+    },
+    {
+      "title": "PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis",
+      "description": "Generating full-body human gestures encompassing face, body, hands, and global movements from audio for virtual avatar creation. Accepted by NeurIPS 2025.",
+      "url": "https://github.com/Williamy946/PyraMotion"
+    },
+    {
+      "title": "FovOptix: Human Vision-Compatible Video Encoding and Adaptive Streaming in VR Cloud Gaming",
+      "description": "Implement Fixed-Foveated Video Encoder to enhance the smoothness and user experience of VR Cloud Gaming. Accepted by MMSYS 2024.",
+      "url": "https://github.com/WuZemyp/FovOptix"
+    }
+  ],
+  "researchInterests": [
+    {
+      "title": "Multi-modal Machine Learning",
+      "description": "Aims at integrating different modality representation to deep learning model."
+    },
+    {
+      "title": "AR/VR",
+      "description": "Aims at integrating AI to enhance AR/VR application performance."
+    },
+    {
+      "title": "Real-time Communication",
+      "description": "Aims at enhancing current Real-time commpunication protocol, with integrating AI."
+    }
+  ]
+}
